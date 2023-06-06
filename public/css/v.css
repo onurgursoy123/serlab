@@ -1,0 +1,26 @@
+.c-h-b {
+    color: rgb(108, 117, 125) !important;
+}
+
+.c-h-b:hover {
+    color: #00599c !important;
+}
+
+.dropdown-hover-menu {
+    border-top: none;
+    border-radius: 0;
+    border-color: #00599c;
+    padding: 1.25rem 0;
+    width: 16.8125rem;
+}
+
+.dropdown-hover-menu li a {
+    padding: .3125rem 1.9375rem;
+    line-height: 1.575rem;
+    color: rgb(108, 117, 125);
+}
+
+.dropdown-hover a {
+    color: rgb(108, 117, 125);
+    text-decoration: none;
+}
